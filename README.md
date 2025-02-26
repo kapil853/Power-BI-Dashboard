@@ -41,7 +41,7 @@ Screenshots (Optional, but recommended)
 
 If you have dashboard screenshots, add them here using:
 
-![Dashboard Preview](link-to-image)
+![Dashboard Screenshot](https://github.com/kapil853/Power-BI-Dashboard/blob/main/Screenshot%202025-02-26%20235250.png?raw=true)
 
 Contributing
 
